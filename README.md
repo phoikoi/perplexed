@@ -1,6 +1,6 @@
 # Perplexed
 
-This typeface is a very lightly modifed derivative of IBM Plex Mono.
+This typeface is a very lightly modified derivative of IBM Plex Mono.
 
 The only modifications made were to disable the `ccmp` tables, since
 they were refusing to export properly, and to add the Powerline
