@@ -6,6 +6,8 @@ The only modifications made were to disable the `ccmp` tables, since
 they were refusing to export properly, and to add the Powerline
 glyphs for use in terminal applications.
 
+**If you only want the font files, just download [PerplexedFamily.zip](https://github.com/phoikoi/perplexed/raw/master/PerplexedFamily.zip).**
+
 If anybody more skilled than I would like to figure out how to re-enable
 the `ccmp` tables (and explain it to me maybe?) I would be most grateful.
 I'd like to have the font as close to the IBM original as possible,
